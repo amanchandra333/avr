@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "led_blink", "led_blink\led_blink.cproj", "{5C3CB8CC-8934-4BB4-8F90-49A8650BD24D}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "led blink variable input", "led blink variable input\led blink variable input.cproj", "{9852FCB6-8F4A-4BBE-8659-8FB7EBBE0010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3CB8CC-8934-4BB4-8F90-49A8650BD24D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5C3CB8CC-8934-4BB4-8F90-49A8650BD24D}.Debug|AVR.Build.0 = Debug|AVR
+		{5C3CB8CC-8934-4BB4-8F90-49A8650BD24D}.Release|AVR.ActiveCfg = Release|AVR
+		{5C3CB8CC-8934-4BB4-8F90-49A8650BD24D}.Release|AVR.Build.0 = Release|AVR
+		{9852FCB6-8F4A-4BBE-8659-8FB7EBBE0010}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9852FCB6-8F4A-4BBE-8659-8FB7EBBE0010}.Debug|AVR.Build.0 = Debug|AVR
+		{9852FCB6-8F4A-4BBE-8659-8FB7EBBE0010}.Release|AVR.ActiveCfg = Release|AVR
+		{9852FCB6-8F4A-4BBE-8659-8FB7EBBE0010}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

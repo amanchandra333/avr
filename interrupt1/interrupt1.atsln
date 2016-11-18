@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "interrupt1", "interrupt1\interrupt1.cproj", "{206F567C-BF6A-423D-9A3D-8A610276DAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206F567C-BF6A-423D-9A3D-8A610276DAFB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{206F567C-BF6A-423D-9A3D-8A610276DAFB}.Debug|AVR.Build.0 = Debug|AVR
+		{206F567C-BF6A-423D-9A3D-8A610276DAFB}.Release|AVR.ActiveCfg = Release|AVR
+		{206F567C-BF6A-423D-9A3D-8A610276DAFB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
